@@ -1,13 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/my-project_2.12-0.1.0-SNAPSHOT.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Bicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes/Bicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes/MyProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes/MyProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RoadBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes/RoadBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RustyBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes/RustyBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/mcngnt/projprog2/LeProjetProg2-des-wiiinneeers-/target/scala-3.3.1/leprojetprog2-des-wiiinneeers-_3-0.1.0-SNAPSHOT.jar[0m

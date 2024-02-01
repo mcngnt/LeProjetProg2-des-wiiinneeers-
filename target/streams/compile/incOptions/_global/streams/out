@@ -1,20 +1,2 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Bicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RoadBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RustyBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Bicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RoadBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RustyBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Bicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RoadBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	RustyBicycle.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /mnt/c/Users/maell/OneDrive/Documents/projetscala/LeProjetProg2-des-wiiinneeers-/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/mcngnt/projprog2/LeProjetProg2-des-wiiinneeers-/target/scala-3.3.1/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/mcngnt/projprog2/LeProjetProg2-des-wiiinneeers-/target/scala-3.3.1/classes.bak[0m

@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(rub, Some(7a80434d-1fef-447a-be40-85ee42c9f5b6), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: rub (similar: reboot)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: rub[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: rub (similar: run, turbo, runner)[0m
+[0m[[0m[31merror[0m] [0m[0mrub[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

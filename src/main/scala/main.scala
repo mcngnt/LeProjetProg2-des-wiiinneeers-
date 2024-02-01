@@ -1,21 +1,15 @@
-import swing._
-import swing.event._
+class Bycicle:
+	protected var counter : Int = 0
+	def move() =
+		counter += 1
+		println(s"Counter: ${counter}")
 
+class RoadBycicle extends Bycicle:
+	override def move() =
+		counter += 3
+		println(s"Counter: ${counter}")
 
-object MyApp extends SimpleSwingApplication {
-	def top = new MainFrame {
-		title = "MyApplication"
-		val myButton = new Button("Click here")
-		val label = new Label("Not Clicked")
-		contents = new BorderPanel {
-			add(label, BorderPanel.Position.North)
-			add(myButton, BorderPanel.Position.Center)
-		}
-
-		listenTo(myButton)
-		reactions += {
-			case ButtonClicked(source) => label.text = "Clicked"
-			case _ => {}
-		}
-	}
-}
+@main def main =
+	val b = RoadBycicle()
+	b.move()
+	println("Hello world!")
