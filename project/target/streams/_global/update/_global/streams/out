@@ -1,7 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/project/"), "le-projet-prog2-des-wiiinneeers-build")...[0m
-[0m[[0m[0minfo[0m] [0m[0mUpdating le-projet-prog2-des-wiiinneeers-build[0m
-[0m[[0m[0minfo[0m] [0m[0mResolved le-projet-prog2-des-wiiinneeers-build dependencies[0m
-[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of le-projet-prog2-des-wiiinneeers-build[0m
-[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of le-projet-prog2-des-wiiinneeers-build[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/project/"), "le-projet-prog2-des-wiiinneeers-build")[0m

@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/src/main/scala/Renderer.scala:428:44 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m428 |[0m                                            [33melse[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                            ^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThe start of this line does not match any of the previous indentation widths.[0m
-[0m[[0m[31merror[0m] [0m[0m[31m    |[0mIndentation width of current line : 44 spaces[0m
-[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis falls between previous widths: 12 spaces and 48 spaces[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
