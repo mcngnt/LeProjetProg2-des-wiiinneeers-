@@ -1,13 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/mcngnt/projprog2/LeProjetProg2-des-wiiinneeers-/src/main/scala/main.scala:9:2 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m		counter += [31m3[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m		^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m		Not found: counter[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/mcngnt/projprog2/LeProjetProg2-des-wiiinneeers-/src/main/scala/main.scala:10:23 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m10 |[0m		println([31ms"Counter: [0m${counter}[31m"[0m)[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m		                     ^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m		                     Not found: counter[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/src/main/scala/Renderer.scala:428:44 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m428 |[0m                                            [33melse[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                            ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThe start of this line does not match any of the previous indentation widths.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mIndentation width of current line : 44 spaces[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis falls between previous widths: 12 spaces and 48 spaces[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

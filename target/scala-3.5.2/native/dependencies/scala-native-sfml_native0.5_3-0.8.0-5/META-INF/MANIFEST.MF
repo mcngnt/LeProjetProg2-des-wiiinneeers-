@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Scala Native SFML
+Specification-Version: 0.8.0
+Specification-Vendor: org.codeberg.lafeychine
+Implementation-Title: Scala Native SFML
+Implementation-Version: 0.8.0
+Implementation-Vendor: org.codeberg.lafeychine
+Implementation-Vendor-Id: org.codeberg.lafeychine
+
