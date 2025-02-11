@@ -1,0 +1,69 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 64 products, 15 sources, 3 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Company.scala, ${BASE}/src/main/scala/City.scala, ${BASE}/src/main/scala/UI.scala, ${BASE}/src/main/scala/Vehicle.scala, ${BASE}/src/main/scala/Monster.scala, ${BASE}/src/main/scala/AudioManager.scala, ${BASE}/src/main/scala/Connexion.scala, ${BASE}/src/main/scala/Renderer.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/World.scala, ${BASE}/src/main/scala/Game.scala, ${BASE}/src/main/scala/Utils.scala, ${BASE}/src/main/scala/Disaster.scala, ${BASE}/src/main/scala/UIElement.scala, ${BASE}/src/main/scala/TataDoritosLuc.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/UI.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/UI.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(ui.UI, ui.UI$package)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(ui.UI, ui.UI$package)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/UI.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: ui.UI, ui.UI$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/target/scala-3.5.2/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.2/scala3-sbt-bridge-3.5.2.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler fe7f3a6 for Scala Compiler version 3.5.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wunused:all[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wunused:strict-no-implicit-warn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wunused:unsafe-warn-patvars[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Wvalue-discard[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Werror[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nscplugin_3.5.2/0.5.6/nscplugin_3.5.2-0.5.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:scalanative:positionRelativizationPaths:/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/src/main/scala;/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/src/main/scala-3;/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/src/main/java;/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/target/scala-3.5.2/src_managed/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maelle/projetscala/le-projet-prog2-des-wiiinneeers/target/scala-3.5.2/classes:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/scala3lib_native0.5_3/3.5.2%2B0.5.6/scala3lib_native0.5_3-3.5.2%2B0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nativelib_native0.5_3/0.5.6/nativelib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/clib_native0.5_3/0.5.6/clib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/posixlib_native0.5_3/0.5.6/posixlib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/windowslib_native0.5_3/0.5.6/windowslib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/javalib_native0.5_3/0.5.6/javalib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/auxlib_native0.5_3/0.5.6/auxlib_native0.5_3-0.5.6.jar:/home/maelle/.cache/coursier/v1/https/codeberg.org/api/packages/lafeychine/maven/org/codeberg/lafeychine/scala-native-sfml_native0.5_3/0.8.0/scala-native-sfml_native0.5_3-0.8.0.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.15/scala-library-2.13.15.jar:/home/maelle/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/scalalib_native0.5_2.13/2.13.15%2B0.5.6/scalalib_native0.5_2.13-2.13.15%2B0.5.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.990049758 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: ui.UI, ui.UI$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding uielement.UIPanel by ui.UI[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding renderer.Renderer by uielement.UIPanel[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding Main$package by renderer.Renderer[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding uielement.UIButton by ui.UI[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding city.City by ui.UI[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding renderer.Renderer$package by city.City[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding game.Game by renderer.Renderer$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding vehicle.MerchandiseVehicle by game.Game[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding world.World by vehicle.MerchandiseVehicle[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding game.Game$package by world.World[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding monster.Monster by game.Game$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding vehicle.Vehicle by game.Game$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding company.Company by vehicle.Vehicle[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding vehicle.PassengerVehicle by company.Company[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding disaster.Disaster by game.Game$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding uielement.UIWarning by disaster.Disaster[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding audiomanager.AudioManager by renderer.Renderer$package[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding connexion.Connexion by city.City[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding uielement.UIConfirm by connexion.Connexion[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding ui.UI$package by city.City[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated macros due to upstream dependencies change: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
