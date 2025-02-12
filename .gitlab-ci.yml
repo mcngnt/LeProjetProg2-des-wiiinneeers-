@@ -1,0 +1,35 @@
+image: codeberg.org/lafeychine/scala-native-sfml:latest
+
+default:
+  artifacts:
+    paths: [ target ]
+  before_script:
+    - echo 'buildMode := BuildMode.CI' >> build.sbt
+  interruptible: true
+
+stages: [ format, build, deploy ]
+
+variables:
+  SBT_OPTS: "-Dsbt.supershell=false"
+
+format:
+  stage: format
+  artifacts:
+    paths: []
+  script:
+    - sbt scalafmtCheck
+
+build:
+  stage: build
+  script:
+    - sbt compile
+
+pages:
+  stage: deploy
+  artifacts:
+    paths: [ public ]
+  only:
+    refs: [ main ]
+  script:
+    - sbt doc
+    - mv target/docs public
